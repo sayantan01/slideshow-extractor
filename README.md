@@ -4,6 +4,7 @@ Python script to extract slideshow images from a video file and generate a pdf
 ## Installation
 ~~~
 git clone https://github.com/sayantan01/slideshow-extractor.git
+cd slideshow-extractor
 ./install.sh
 ~~~
 
